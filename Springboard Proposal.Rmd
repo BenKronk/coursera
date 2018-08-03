@@ -1,0 +1,31 @@
+---
+title: "Springboard Project Proposal"
+author: "bkronk"
+date: "August 2, 2018"
+output: html_document
+---
+**What is the 'problem' you want to solve?**
+
+The 'problem' that we are attempting to solve is to uncover and as of yet undiscovered alpha opportunity in the stock of firms listed on the NYSE or the NASDAQ.  This is a difficult problem to solve because of the high-powered hedge funds and investment firms that have extensive resources at there disposal as they attempt to address the same issue.
+
+**Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn't have otherwise?**
+
+The 'client' is both me and Sashank, who hope to gain unique insights into the stock market which we could potentially leverage for investment opportunities.
+
+**What data are you going to use for this? How will you acquire this data?**
+
+The primary sources of data that we plan to utilize for the project will be publicly available financial data from Yahoo Finance, as well as making an effort to glean insights directly from financial reports such as 10-Ks and 8-Ks filed with the SEC.  The potential for news items to 
+
+**In brief, outline your approach to solving this problem.**
+
+The first step is to acquire the financial data from Yahoo Finance and begin to separate 'good' companies, i.e. companies that appear to be well-run yet are undervalued from 'bad' companies, i.e. those that offer a weak return to investors
+
+Using the financial data, I can begin to cluster the companies according to their merits.  At some point down the line, I'll work in data from their reports filed with the SEC and perhaps news items.
+
+**What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.**
+
+The deliverables will be a comprehensive slide deck, likely made with either ioslides or slidy.  The deck will include the code that I've written to facilitate the completion of the project, as well as a discussion on which companies should be invested in, and why, as well as which companies to avoid, and why.
+
+Via this project I will learn and practice a variety of skills in R and in statistics, inclding how to extract data from the web, run a cluster analysis, conduct predictive modeling, delve into text analytics among potentially other concepts
+
+
